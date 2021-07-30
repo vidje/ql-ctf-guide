@@ -21,7 +21,11 @@ CTF basics, so you can suck less.
 
 `Q:` Anything else missing?
 
-`Ą:` Yup, configs and Spider Crossings unfortunately. Those also got lost, I probably did a poor paste from pdf version to Steam. 
+`A:` Yup, configs and Spider Crossings section, unfortunately. Those also got lost, I probably did a poor paste from pdf version to Steam. 
+
+`Q:` Who made this?
+
+`A:` Raist and myself (esdf/vidje).
 
 ## Index
 
