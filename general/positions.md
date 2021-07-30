@@ -1,0 +1,34 @@
+# Overview
+QuakeLive’s CTF format in competitive games (leagues and cups) and pickups is 4v4 with the most basic position split being def-mid-att-att. Varying on maps, the mid is mostly converted to second def or 3rd attacker.
+
+The role of def is taking base items, keeping the base safe, and depending on situation or map - pushing mid and helping attackers to safely capture the enemy flag.
+On maps where mid is played, the mid player's role varies from helping the def to pushing with attackers, instead of just staying at mid.
+
+## Attackers
+Attacker jobs are to (obviously) attack and help the mid player to secure the midfield. When your flag is gone, everyone is supposed to intercept the enemy flag carrier, so don't go off running like a spastic into enemy base just to get yourself killed (and watch the enemy flag carrier cap from your death cam pov).
+
+Attacking isn't just mindlessly rushing the enemy def, dying one by one as you approach the enemy base. You can't do anything with that approach, aside from making your team lose. With that approach you don't do any pressure to enemy def, which means enemy def can come out of his shell more freely and push mid, which means enemy mid can push attack, which means enemy team has 3 attackers and probably has you shitting your pants, hoping for a quick end to the game. This isn't a map specific scenario, this happens on all maps if you, the attackers, fuck up.
+
+What you should do instead is cooperate with your partner in attack. Synchronize your attacks so enemy def can't pick you off 1 by 1 so he takes more damage then he can recover from with just one item cycle. When you hear the enemy def is low (screaming) make your team know, so you can push with 3 for one cycle, instead of only the two of you. Time enemy items, an item denial means a lot, specially if you deal a decent amount of damage in the process.
+
+When you finally get your hands on to the enemy flag, run (and think at the same time). Don't bother yourself with killing enemies (unless you absolutely have to in order to make the run). Watch team overlay and team indicators to get some info on where on map your teammates are dying and where on map they're alive, so you can pick the safer route a bit easier.
+
+If you picked up the flag low on health, with nothing to boost you around, drop the flag to your team mate. If no team mate is around try to survive for a bit, until your teammates reach you, drop the flag, and continue to support your flag carrier. Supporting him means not taking any items around him or in front of him, not even a 5hp bubble. Also, try to kill everyone intercepting him, and follow up the flag run until the end, until it is a cap. Don't just stop half way through, turn around and go back to the enemy base for a rebound. What to do if your team mate picked the flag from start? Re-read the support part.
+
+Last part on successfully attacking is being there every 120s (2 min) for power up(s), securing it, and if you're absolutely fucked, yet somehow take the power up, go back to your base and drop it to the guy that will know what to do with it better than you (or to the first stacked team mate you see).
+
+## Midfielders
+Since the QL CTF format is 4v4, there's a slim chance you'll get to play mid of old a.k.a. pick up the rail gun and camp like an asshole. Basically, the moment there's no enemy players on mid, push to attack. Chances are you're going to get the enemy team stuck in their base defending from your 3 man push, which works out just fine for your def - no pressure on him and he can start growing his monster stack. Once the 3 man push is done, you should still be in a good position to continue controlling the mid, and if you're having trouble - ask the team mates for a bit of help.
+
+On the other hand, when the enemy team has done what you wanted (has mid control), but you didn't manage to do it because of bad aim or unintelligent team mates (or both), you should drop the mid idea and play more of a role of 2nd def, which means help your def, don't take his items, try to kill the incomings and serve as a damage buffer between enemy attackers and your main def. Once your base is finally safe, go out and try to retake the map (along with help from your attackers and def if needed). When your attackers have the flag, meet and escort them to base.
+
+## Defenders
+Being a def is the most requiring position of all, as it encompasses a bit from everything mentioned so far. If you're new, don't do def. Still, here are some guidelines. Stay in def, secure the base and items. Don't randomly leave the base. Help the team during power ups. Don't expose yourself in a way that you can take long range damage from enemy team - you need your stack. Push to mid if it's safe so your own mid guy can attack. Attack with the rest of your team when the situation calls for it (e.g. overtime). Because you are the guy that can get his stack the easiest way (all items in base), you will probably be the guy to bring the tiebreaking cap home in long(er) overtime games.
+
+You can also attack at times with power up (quad or haste) when you have a big stack, just make sure your mid sticks to base duties during your run. If you don't fuck it up, in the worst case you'll be stuck in a cross cap situation. When your team has the flag, move your ass out of the base and try to clear the way in front of your flag carrier so he can cap. If your base is not safe at that moment, secure it and read the previous sentence again.
+
+Spam everywhere, spam grenades, rockets to all entrances. if you receive info enemy is incoming from high, instead of meeting them face to face just drop some nades in that direction so that the enemy att will most likely get damage if he tries to enter by just rushing in. Even if you have no info about the enemy team it’s better to keep spamming because of enemies sneaking in or enemies who are waiting on your items to spawn & steal.
+
+Learn to move FAST, when chasing / intercepting an enemy fc or trying to return, a delay of even 1 second can decide if a flag is returned or is capped against you. Fast movement is also required to quickly get back in position when you get a bad spawn. Fast movement also implies ignoring all fights to get back to base, doing damage outside of flag area is the least of def’s concerns.
+
+Sometimes, when the def dies and has to stop the enemy fc, there will be a gap of info if the enemy fc switches routes or waits in base to try to trick his opponents. the general rule for the def to intercept is to quickly check which route is being held by his teammates and begin a sweep towards his flag area from the other non covered route. Unless his team mates mess by not giving info about enemy fc going their way, this is usually the fastest way to stop the enemy fc.
