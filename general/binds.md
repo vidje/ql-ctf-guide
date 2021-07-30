@@ -10,4 +10,4 @@ bind <key> "droppowerup"
 bind <key> "dropflag"
 ```
 
-You can also include some tokens to your binds, like #h and #a that echo your current health and armor levels to the team. You could also expand the bind list with a bind that says a certain item is up or taken, etc.
+You can also include some tokens to your binds, like `#h` and `#a` that echo your current health and armor levels to the team. You could also expand the bind list with a bind that says a certain item is up or taken, etc.
