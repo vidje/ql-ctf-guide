@@ -28,13 +28,16 @@ CTF basics, so you can suck less.
 `A:` Raist and myself (esdf/vidje).
 
 ## Index
-
-1) CTF Basics
-2) Binds
-3) Positions
-4) Ironworks
-5) Japanese Castles
-6) Infinity
-7) Shining Forces
-8) Camper Crossings
+1) General
+  1.1) CTF Basics
+  1.2) Binds
+  1.3) Positions
+  1.4) Team Spirit
+2) Maps
+  2.1) Ironworks
+  2.2) Japanese Castles
+  2.3) Infinity
+  2.4) Shining Forces
+  2.5) Camper Crossings
+  2.6) Troubled Waters
 
